@@ -7,17 +7,18 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Nome do Grupo: **iCut**
+Integrantes: Fraga013, gbrochi, GustavoSilva2005, l0destarz, ThalesGranja
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+iCut
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela iCut, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema iCut é facilitar o processo de agendar um serviço em barbearias.
 
 ***1.2.  Público Alvo***
 
