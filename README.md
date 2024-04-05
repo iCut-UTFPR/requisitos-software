@@ -22,11 +22,11 @@ O objetivo do sistema iCut é facilitar o processo de agendar um serviço em bar
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... 
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Os usuários finais serão os clientes da barbearia que vamos fornecer o sistema de controle de corte e estoque da mesma.
 
 ## 2. Documentos gerais no repositório
 
