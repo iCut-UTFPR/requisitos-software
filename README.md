@@ -30,7 +30,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 Os usuários finais serão os clientes da barbearia que vamos fornecer o sistema de controle de corte e estoque da mesma.
 
-Aqui está o link para a apresentação dos potênciais clientes: https://encurtador.com.br/fxP01
+Aqui está o link para a apresentação dos potênciais clientes e barbeiro: https://encurtador.com.br/afjMZ
 
 ## 2. Documentos gerais no repositório
 
