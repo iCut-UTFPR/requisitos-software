@@ -20,6 +20,8 @@ Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela 
 
 O objetivo do sistema iCut é facilitar o processo de agendar um serviço em barbearias.
 
+Aqui está o link para uma apresentação mais detalhada dos Requisitos de Usuário e Requisitos de Sistema: https://padlet.com/gsilva2005/kanban-h8jiv6iru3n1xb6z
+
 ***1.2.  Público Alvo***
 
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... 
@@ -27,6 +29,8 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 ***1.3. Descrição dos usuários***
 
 Os usuários finais serão os clientes da barbearia que vamos fornecer o sistema de controle de corte e estoque da mesma.
+
+Aqui está o link para a apresentação dos potênciais clientes: https://encurtador.com.br/fxP01
 
 ## 2. Documentos gerais no repositório
 
