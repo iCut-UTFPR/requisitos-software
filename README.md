@@ -34,15 +34,21 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 
 ## 2. Documentos gerais no repositório
 
-***2.1. Requisitos de usuário***
+***2.1. Requisitos Funcionais***
 
-*<Link para a pasta com os requisitos de usuário.>*
+[RF01] O software deve permitir que o cliente faça o seu próprio cadastro no aplicativo.
+[RF02] O software deve permitir que o cliente marque um horário.
+[RF03] O software deve permitir que o cliente escolha um barbeiro de sua preferência para prestar o serviço escolhido.
+[RF04] O software deve permitir que o cliente veja os itens disponíveis para venda (objetos e serviços).
+[RF05] O software deve permitir que o cliente veja o catálogo da barbearia.
+[RF06] O software deve permitir que o barbeiro veja a quantidade de horas que o mesmo já trabalhou.
+[RF07] O software deve permitir que o cliente escolha qual tema de aplicativo ele quer (claro/escuro).
+[RF08] O software deve permitir que o cliente consulte o horário marcado (ver serviço, dia, horário e barbeiro).
+[RF09] O software deve permitir que o barbeiro consiga gerenciar seus horários (consegue bloquear horários da sua agenda para clientes não pegarem).
+[RF10] O software deve permitir que o cliente faça uma avaliação após o serviço contratado.
+[RF11] O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva).
 
-***2.2. Requisitos de sistema***
-
-*<Link para a pasta de requisitos de sistema .>*
-
-***2.3. Protótipos***
+***2.2. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
