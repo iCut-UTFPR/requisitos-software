@@ -49,7 +49,9 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 [RF06] O software deve permitir que o barbeiro veja a quantidade de horas que o mesmo já trabalhou.
 
 [RF07] O software deve permitir que o cliente escolha qual tema de aplicativo ele quer (claro/escuro).
-RF08 O software deve permitir que o cliente consulte o horário marcado (ver serviço, dia, horário e barbeiro).
+
+[RF08] O software deve permitir que o cliente consulte o horário marcado (ver serviço, dia, horário e barbeiro).
+
 [RF09] O software deve permitir que o barbeiro consiga gerenciar seus horários (consegue bloquear horários da sua agenda para clientes não pegarem).
 
 [RF10] O software deve permitir que o cliente faça uma avaliação após o serviço contratado.
