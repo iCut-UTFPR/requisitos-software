@@ -49,6 +49,24 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF10]` | O software deve permitir que o cliente faça uma avaliação após o serviço contratado. |
 | `[RF11]` | O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva). |
 
+
+| Requisitos Não Funcionais | Descrição | Prioridade |
+| --- | --- | --- |
+| `[RNF01]` | Os usuários devme ser capazes de utilizar todas as funcionalidades do sistema após 5 minutos de uso. Deverá ser algo intuitivo para ele não perder tanto tempo. |
+| `[RNF02]` | O usuário deve ser capaz de finalizar o agendamento de um corte com menos de 5 cliques no aplicativo. |
+| `[RNF03]` | A ajuda online do sistema deve ser algo claro na interface, sem precisar de muito esforço para acha-lá. |
+| `[RNF04]` | O sistema deverá processar 100 requisições a cada segundo (visando maior velocidade na confirmação do agendamento). |
+| `[RNF05]` | O instalador do sistema não deve ser superior a 150MB. |
+| `[RNF06]` | O sistema deve suportar 20 usuários concorrentemente. |
+| `[RNF07]` | O sistema deve ficar no ar 95% do tempo. |
+| `[RNF08]` | Se o sistema falhar, os dados do usuário devem ser recuperados pelo sistema. |
+| `[RNF09]` | O sistema deve ser operacionalizado no Andriod e IOS. |
+| `[RNF10]` | Todos os documentos entregues devem seguir o cabeçalho e rodapé definido pela empresa. |
+| `[RNF11]` | O sistema deve ser implementado na linguagem React Native/JavaScript. |
+| `[RNF12]` | O sistema deve interagir com o sistema do banco para pagamento dos usuários. |
+| `[RNF13]` | O sistema não deve revelar aos operadores nenhuma informação pessoal dos clientes. |
+| `[RNF14]` | O acesso aos dados deve ser protegido. |
+
 ***2.2. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
