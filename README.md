@@ -67,7 +67,9 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RNF13]` | O sistema não deve revelar aos operadores nenhuma informação pessoal dos clientes. |
 | `[RNF14]` | O acesso aos dados deve ser protegido. |
 
-***2.2. Protótipos***
+
+***2.2. Entrevista***
+
 Peguntas para o roteiro de entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt
 
 
