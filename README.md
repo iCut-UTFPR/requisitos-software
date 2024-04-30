@@ -68,6 +68,10 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RNF14]` | O acesso aos dados deve ser protegido. |
 
 ***2.2. Protótipos***
+Peguntas para o roteiro de entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt
+
+
+***2.3. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
