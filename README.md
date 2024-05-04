@@ -58,7 +58,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF11]` | O software deve permitir que o cliente assinale a opção de fazer uma avaliação anônima. | 1 |
 | `[RF12]` | O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva). | 1 |
 | `[RF13]` | O software deve permitir que o barbeiro edite o status dos clientes para (inativo e viajante). | 2 |
-| `[RF14]` | O software deve permitir que o cliente pague pelo app ou não. | 1 |
+| `[RF14]` | O software deve permitir que o cliente escolha entre pagar pelo app ou não. | 1 |
 
 
 | Requisitos Não Funcionais | Descrição | Prioridade |
@@ -85,8 +85,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RNF20]` | O sistema deve enviar uma mensagem automática para o cliente no dia de seu corte, para relembrar do horário e serviço marcado. Se e somente se o cliente assinalou que gostaria de receber esse lembrete. | 1 |
 | `[RNF21]` | O sistema só deve permitir o cadastro do cliente caso a idade dele seja acima ou igual a 14 anos, salvo as exceções. | 1 |
 | `[RNF22]` | O sistema deve enviar uma mensagem, já definida, automaticamente para o cliente que entrar em status "em análise". | 2 |
-| `[RNF23]` | O sistema deve permitir que o cliente faça uma avaliação de serviço anônimo, com a opção na tela de avaliação. | 1 |
-| `[RNF24]` | O sistema deve gerar um QR code e um código copia e cola para o pagamento dentro do app. | 1 |
+| `[RNF23]` | O sistema deve gerar um QR code e um código copia e cola para o pagamento dentro do app. | 1 |
 
 
 ***2.2. Entrevista***
