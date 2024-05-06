@@ -92,6 +92,8 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 
 Peguntas para o roteiro de entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt
 
+Resposta da entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Resposta%20da%20Entrevista%20sobre%20o%20software%20de%20barbearia
+
 
 ***2.3. Protótipos***
 
