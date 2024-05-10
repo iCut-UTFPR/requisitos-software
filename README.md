@@ -89,6 +89,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RNF21]` | O sistema só deve permitir o cadastro do cliente caso a idade dele seja acima ou igual a 14 anos, salvo as exceções. | 1 |
 | `[RNF22]` | O sistema deve enviar uma mensagem, já definida, automaticamente para o cliente que entrar em status "em análise". | 2 |
 | `[RNF23]` | O sistema deve gerar um QR code e um código copia e cola para o pagamento dentro do app. | 1 |
+| `[RNF24]` | O sistema deve fornecer um relatório sobre status de clientes ou produtos da barbearia como solicitado pelo barbeiro. | 1 |
 
 
 ***2.2. Entrevista***
