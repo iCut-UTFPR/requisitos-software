@@ -53,7 +53,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF07]` | O software deve permitir que o cliente escolha qual tema de aplicativo ele quer (claro/escuro). | 3 |
 | `[RF08]` | O software deve permitir que o cliente consulte o horário marcado (ver serviço, dia, horário e barbeiro). | 1 |
 | `[RF09]` | O software deve permitir que o barbeiro consiga gerenciar seus horários (consegue bloquear horários da sua agenda para clientes não pegarem). | 1 |
-| `[RF10]` | O software deve permitir que o barbeiro consiga gerenciar horário para clientes já cadastrados. | 1 |
+| `[RF10]` | O software deve permitir que o barbeiro consiga marcar um horário para clientes já cadastrados. | 1 |
 | `[RF11]` | O software deve permitir que o cliente faça uma avaliação após o serviço contratado(avaliação estrela e box de mensagem). | 1 |
 | `[RF11]` | O software deve permitir que o cliente assinale a opção de fazer uma avaliação anônima. | 1 |
 | `[RF12]` | O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva). | 1 |
@@ -90,12 +90,31 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 
 ***2.2. Entrevista***
 
-Peguntas para o roteiro de entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt
+Você pode ver as peguntas para o roteiro de entrevista clicando [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt).
 
-Resposta da entrevista: https://github.com/iCut-UTFPR/requisitos-software/blob/main/Resposta%20da%20Entrevista%20sobre%20o%20software%20de%20barbearia
+E para ver a resposta da entrevista é só clicar [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Resposta%20da%20Entrevista%20sobre%20o%20software%20de%20barbearia).
 
+***2.3. Histórias de Usuário***
 
-***2.3. Protótipos***
+| N° | História de Usuário |
+| --- | --- |
+| 1 | Como um cliente, eu quero fazer meu próprio cadastro, para que eu consiga marcar um horário. |
+| 2 | Como um cliente, eu quero fazer meu próprio agendamento do serviço que desejo, para que eu não precise ligar a barbearia. |
+| 3 | Como um cliente, eu quero escolher o barbeiro que irá realizar o trabalho, para que eu consiga marcar um horário. |
+| 4 | Como um cliente, eu quero ver os itens (objetos) disponíveis para a venda, para que eu não precise ligar perguntando dos itens. |
+| 5 | Como um cliente, eu quero ver o catálogo, para que eu possa escolher qual serviço gostaria de agendar. |
+| 6 | Como um barbeiro, eu quero de ver quantas horas já trabalhei, para saber como meus serviços estão indo. |
+| 7 | Como um cliente, eu quero mudar alternar entre o tema claro e escuro dentro do aplicativo, para que eu tenha um maior conforto na hora de usar o aplicativo com o tema que desejo. |
+| 8 | Como um cliente, eu quero consultar o horário que eu marquei, para que eu possa conferir o horário, serviço e barbeiro. |
+| 9 | Como um barbeiro, eu quero gerenciar meus horários, para que eu possa bloquear meus horários para clientes não pegarem. |
+| 10 | Como um barbeiro, eu quero agendar um horário para um cliente já cadastrado, para que os que não gostem de marcar por aplicativo tenham que entrar nele. |
+| 11 | Como um cliente, eu quero fazer uma avaliação, dentro do aplicativo, do serviço prestado, para que eu dê um feedback se gostei ou não. |
+| 12 | Como cliente, eu quero ter a possibilidade de escolher entre fazer a avaliação anônima ou não por uma check box na tela de avaliação, para que eu possa ser verdadeiro em minha avaliação sem ficar constrangido futuramente. |
+| 13 | Como cliente, eu quero editar meu agendamento (cancelar/remarcar), para que eu possa cancelar ou remarcar caso precise. |
+| 14 | Como barbeiro, eu quero mudar o status do cliente para "inativo" ou "viajante", para que eu consiga controlar melhor os status dos clientes. |
+| 15 | Como cliente, eu quero escolher entre pagar pelo aplicativo ou não, para que eu tenha uma variedade de opções e visando praticidade também. |
+
+***2.4. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
