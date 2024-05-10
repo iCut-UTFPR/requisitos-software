@@ -34,13 +34,15 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 
 ## 2. Documentos gerais no repositório
 
-***2.1. Requisitos Funcionais***
+***2.1. Requisitos***
 
 | Nível de prioridade | Descrição |
 | --- | ---|
 | 1 | Alto |
 | 2 | Médio |
 | 3 | Baixo |
+
+***2.1.1 Requisitos Funcionais***
 
 | Requisitos Funcionais | Descrição | Prioridade |
 | --- | --- | --- |
@@ -60,6 +62,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF13]` | O software deve permitir que o barbeiro edite o status dos clientes para (inativo e viajante). | 2 |
 | `[RF14]` | O software deve permitir que o cliente escolha entre pagar pelo app ou não. | 1 |
 
+***2.1.2 Requisitos Não Funcionais***
 
 | Requisitos Não Funcionais | Descrição | Prioridade |
 | --- | --- | --- |
