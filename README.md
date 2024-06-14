@@ -108,9 +108,9 @@ Com a conveniência proporcionada pelo iCut, Paulo sente-se muito mais satisfeit
 
 ***2.2. Entrevista***
 
-Você pode ver as peguntas para o roteiro de entrevista clicando [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Perguntas%20sobre%20o%20software%20de%20barbearia.txt).
+Você pode ver as peguntas para o roteiro de entrevista clicando [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Entrevista/Perguntas%20sobre%20o%20software%20de%20barbearia.txt).
 
-E para ver a resposta da entrevista é só clicar [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Resposta%20da%20Entrevista%20sobre%20o%20software%20de%20barbearia).
+E para ver a resposta da entrevista é só clicar [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Entrevista/Resposta%20da%20Entrevista%20sobre%20o%20software%20de%20barbearia.txt).
 
 ***2.3. Histórias de Usuário***
 
