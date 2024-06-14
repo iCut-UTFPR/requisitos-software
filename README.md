@@ -49,7 +49,7 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF01]` | O software deve permitir que o cliente faça o seu próprio cadastro no aplicativo. | 1 |
 | `[RF02]` | O software deve permitir que o cliente marque um horário. | 1 |
 | `[RF03]` | O software deve permitir que o cliente escolha um barbeiro de sua preferência para prestar o serviço escolhido. | 1 |
-| `[RF04]` | O software deve permitir que o cliente veja os itens disponíveis para venda (objetos). | 2 |
+| `[RF04]` | O software deve permitir que o cliente veja os itens disponíveis para venda (objetos) no catálogo online e posteriormente ir para o carrinho, e optanto pelas formas de pagamento. | 2 |
 | `[RF05]` | O software deve permitir que o cliente veja o catálogo de serviços da barbearia. | 1 |
 | `[RF06]` | O software deve permitir que o barbeiro veja a quantidade de horas que o mesmo já trabalhou. | 3 |
 | `[RF07]` | O software deve permitir que o cliente escolha qual tema de aplicativo ele quer (claro/escuro). | 3 |
@@ -57,22 +57,22 @@ Aqui está o link para a apresentação dos potênciais clientes e barbeiro: htt
 | `[RF09]` | O software deve permitir que o barbeiro consiga gerenciar seus horários (consegue bloquear horários da sua agenda para clientes não pegarem). | 1 |
 | `[RF10]` | O software deve permitir que o barbeiro consiga marcar um horário para clientes já cadastrados. | 1 |
 | `[RF11]` | O software deve permitir que o cliente faça uma avaliação após o serviço contratado(avaliação estrela e box de mensagem). | 1 |
-| `[RF11]` | O software deve permitir que o cliente assinale a opção de fazer uma avaliação anônima. | 1 |
-| `[RF12]` | O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva). | 1 |
-| `[RF13]` | O software deve permitir que o barbeiro edite o status dos clientes para (inativo e viajante). | 2 |
-| `[RF14]` | O software deve permitir que o cliente escolha entre pagar pelo app ou não. | 1 |
+| `[RF12]` | O software deve permitir que o cliente assinale a opção de fazer uma avaliação anônima. | 1 |
+| `[RF13]` | O software deve permitir que o cliente edite seu horário previamente marcado(cancelar/remarcar reserva), esta opção fica disponível para o cliente até 24h antes da reserva. Caso ele tenha marcado o serviço no mesmo dia da reserva, ele consegue editar até 1h após a solicitação da reserva. | 1 |
+| `[RF14]` | O software deve permitir que o barbeiro edite o status dos clientes para (inativo e viajante). | 2 |
+| `[RF15]` | O software deve permitir que o cliente escolha entre pagar pelo app ou não. | 1 |
 
 ***2.1.2 Requisitos Não Funcionais***
 
 | Requisitos Não Funcionais | Descrição | Prioridade |
 | --- | --- | --- |
-| `[RNF01]` | Os usuários devme ser capazes de utilizar todas as funcionalidades do sistema após 2 minutos de uso. Deverá ser algo intuitivo para ele não perder tanto tempo. | 1 |
-| `[RNF02]` | O usuário deve ser capaz de finalizar o agendamento de um corte com menos de 5 cliques no aplicativo. | 2 |
-| `[RNF03]` | A ajuda online do sistema deve ser algo claro na interface, sem precisar de muito esforço para acha-lá. | 1 |
+| `[RNF01]` | A interface do sistema deve ser intuitiva e fácil de usar, permitindo que novos usuários aprendam a utilizá-la completamente em até 2 minutos. | 1 |
+| `[RNF02]` | O sistema deve permitir a conclusão de um agendamento de corte de cabelo com no máximo 5 interações (cliques) por meio de uma interface otimizada e eficiente. | 2 |
+| `[RNF03]` | O sistema deve fornecer uma ajuda online claramente acessível e visível na interface, minimizando o esforço necessário para encontrá-la. | 1 |
 | `[RNF04]` | O sistema deverá processar 100 requisições a cada segundo (visando maior velocidade na confirmação do agendamento). | 3 |
 | `[RNF05]` | O instalador do sistema não deve ser superior a 150MB. | 1 |
 | `[RNF06]` | O sistema deve suportar 20 usuários concorrentemente. | 2 |
-| `[RNF07]` | O sistema deve ficar no ar 95% do tempo. | 1 |
+| `[RNF07]` | O sistema deve ficar no ar 95% do tempo durante o mês (Aproximadamente 36h por mês, no máximo, fora do ar). | 1 |
 | `[RNF08]` | Se o sistema falhar, os dados do usuário devem ser recuperados pelo sistema. | 1 |
 | `[RNF09]` | O sistema deve ser operacionalizado no Android e IOS. | 1 |
 | `[RNF10]` | Todos os documentos entregues devem seguir o cabeçalho e rodapé definido pela empresa. | 1 |
