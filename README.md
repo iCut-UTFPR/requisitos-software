@@ -32,6 +32,20 @@ Os usuários finais serão os clientes da barbearia que vamos fornecer o sistema
 
 Aqui está o link para a apresentação dos potênciais clientes e barbeiro: https://encurtador.com.br/afjMZ
 
+***1.4. Cenários***
+
+**Cenário Antes:**
+
+Paulo Ribeiro sempre teve dificuldade em gerenciar seu tempo para agendar um corte de cabelo. Ele precisava ligar para a barbearia durante o horário de expediente, o que nem sempre era possível devido ao seu trabalho. Quando conseguia ligar, às vezes encontrava a linha ocupada ou o atendente estava ocupado atendendo outros clientes. As tentativas de agendamento pessoalmente eram ainda mais complicadas, já que precisavam ser feitas durante horários de funcionamento que não coincidiam com sua disponibilidade. A gestão manual da barbearia frequentemente resultava em erros, como horários duplicados ou esquecidos, o que tornava a experiência frustrante e demorada. A falta de comunicação eficiente e a necessidade de lembrar manualmente de seu horário contribuíam para que Paulo frequentemente perdesse seus agendamentos.
+
+**Cenário Depois:**
+
+Após a barbearia adotar o iCut, Paulo Ribeiro passou a agendar seus cortes de cabelo diretamente pelo aplicativo, a qualquer hora do dia, sem precisar interromper seu trabalho. Ele pode ver os horários disponíveis em tempo real e escolher o que melhor se encaixa na sua agenda, com apenas alguns cliques. A interface intuitiva do iCut facilita o processo, permitindo que Paulo complete o agendamento em menos de um minuto.
+
+Além disso, Paulo agora recebe confirmações imediatas e lembretes automáticos por SMS e e-mail, eliminando o risco de esquecer seu horário. A barbearia, por sua vez, gerencia seus horários de forma mais eficiente, sem agendamentos duplicados ou esquecidos. O sistema também mantém um histórico dos serviços de Paulo, permitindo que a barbearia ofereça um atendimento mais personalizado e sugerindo cortes e tratamentos baseados em suas preferências anteriores.
+
+Com a conveniência proporcionada pelo iCut, Paulo sente-se muito mais satisfeito e valorizado como cliente. Ele conseguiu otimizar seu tempo e garantir que nunca mais perca um agendamento. A experiência aprimorada aumentou sua fidelidade à barbearia, e ele agora recomenda o serviço a amigos e familiares. A barbearia, por sua vez, viu um aumento na eficiência operacional e na satisfação do cliente, resultando em um negócio mais próspero e organizado.
+
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos***
