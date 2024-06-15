@@ -140,6 +140,13 @@ Clique [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Protó
 
 Se você clicar [aqui](https://github.com/iCut-UTFPR/requisitos-software/tree/main/Matrizes%20de%20Rastreabilidade), você será redirecionado para ver as matrizes.
 
+***2.6. Diagramas***
+
+Clique no nome do diagrama para você ser redirecionado:
+[Diagrama de Caso de Uso](https://github.com/iCut-UTFPR/requisitos-software/tree/main/Diagrama%20Caso%20de%20Uso),
+[Diagrama de Atividade](https://github.com/iCut-UTFPR/requisitos-software/tree/main/Diagrama%20de%20Atividade),
+[Diagrama de Classe](https://github.com/iCut-UTFPR/requisitos-software/tree/main/Diagrama%20de%20Classe).
+
 
 ## Referências
 
