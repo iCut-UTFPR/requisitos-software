@@ -134,7 +134,7 @@ E para ver a resposta da entrevista é só clicar [aqui](https://github.com/iCut
 
 ***2.4. Protótipos***
 
-*<Link para a pasta com os protótipos.>*
+Clique [aqui](https://github.com/iCut-UTFPR/requisitos-software/blob/main/Protótipo%20Aplicativo%20-%20iCut.zip) para baixar o arquivo .zip para cer o protótipo do aplicativo.
 
 ## Referências
 
